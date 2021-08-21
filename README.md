@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React.js**
 
-- 🤔 I’m looking to contribute for open source.
+- 🤔 I’m always excited to learn new tech.
 
 - 💼 Currently working as a intern at <a href="https://matchday.ai/">Matchday Ai</a>
 
