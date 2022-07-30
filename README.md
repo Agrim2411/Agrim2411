@@ -1,15 +1,10 @@
 <h1 align="center">Hi 👋, I'm Agrim Jain</h1>
-<h3 align="center">a learning web developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=agrim2411&label=Profile%20views&color=0e75b6&style=flat" alt="agrim2411" /> </p>
 
 - 🤓 Pursuing iMTech CSE at IIIT-Bangalore. [](https://github.com/Agrim2411)
 
-- 🌱 I’m currently learning **React.js**
-
 - 🤔 I’m always excited to learn new tech.
-
-- 💼 Currently working as a intern at <a href="https://matchday.ai/">Matchday Ai</a>
 
 - 📫 How to reach me **agrimjain2411@gmail.com**
 
