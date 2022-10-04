@@ -4,6 +4,8 @@
 
 - 🤓 Pursuing iMTech CSE at IIIT-Bangalore. [](https://github.com/Agrim2411)
 
+- ✌️ Interested in full-stack web development and machine learning.
+
 - 🤔 I’m always excited to learn new tech.
 
 - 📫 How to reach me **agrimjain2411@gmail.com**
